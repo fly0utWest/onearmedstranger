@@ -25,7 +25,7 @@ There are some tools that i'm currently comfortable working with:
 
   - 🌐 Languages: Javascript, HTML, CSS;
   - ⚙️ Backend: Java;
-  - 🖌️ Frontend: React JS, Sass
+  - 🖌️ Frontend: React, Sass
 ```
 
 ```bash
@@ -35,7 +35,7 @@ There are some tools that i'm currently comfortable working with:
 ```
 🌱 Currently Learning
 
-  - React,JS;
+  - React;
   - TypeScript;
   - Computer Science;
   - Browser Engines
