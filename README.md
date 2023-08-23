@@ -3,7 +3,7 @@
 ```
 
 ```
-      /\         nik@modern15-arch
+      /\         onearmedstranger@github.com
      /  \        OS: Arch Linux
     /\   \       Host: Modern 15 A10M REV:1.0
    /      \      Kernel: 6.4.11-zen2-1-zen
