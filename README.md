@@ -5,13 +5,13 @@
 ```
       /\         onearmedstranger@github.com
      /  \        OS: Arch Linux
-    /\   \       Host: Modern 15 A10M REV:1.0
+    /\   \       Host: Modern 15 A10M
    /      \      Kernel: 6.4.11-zen2-1-zen
   /   ,,   \     Packages: 851
  /   |  |  -\    Shell: bash
 /_-''    ''-_\   WM: sway
                  Terminal: alacritty
-                 CPU: Intel i5-10210U (8) @ 1
+                 
 ```
 
 
